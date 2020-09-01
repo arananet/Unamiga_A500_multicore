@@ -8,7 +8,7 @@ This repository contains all the cores available for the Unamiga A500 Header and
 
 Browse the CORES directory to download the required one.
 
-##Note: Usually each core requires to have the SD card for the FPGA with his own filesystem, for example the MSX and the SPECCY (next) cores. The MINIMIG (AMIGA) core could coexist witht eh C64.
+### Note: Usually each core requires to have the SD card for the FPGA with his own filesystem, for example the MSX and the SPECCY (next) cores. The MINIMIG (AMIGA) core could coexist witht eh C64.
 
 # Special thanks
 
