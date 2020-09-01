@@ -2,9 +2,9 @@
 
 This repository contains all the cores available for the Unamiga A500 Header and Unamiga Reloaded boards. All of them are in RBF format so they can be used with the multicore support available on the next boards:
 
-## Unamiga A500 1.4 (with multicore hat)
-## Unamiga A500 1.5
-## Unamiga Reloaded
+### Unamiga A500 1.4 (with multicore hat)
+### Unamiga A500 1.5
+### Unamiga Reloaded
 
 Browse the CORES directory to download the required one.
 
