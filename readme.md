@@ -10,7 +10,7 @@ Browse the CORES directory to download the required one.
 
 ### Note: 
 
-Usually each core requires to have the SD card for the FPGA with his own filesystem, for example the MSX and the SPECCY (next) cores. The MINIMIG (AMIGA) core could coexist witht eh C64.
+Usually each core requires to have the SD card for the FPGA with his own filesystem, for example the MSX and the SPECCY (next) cores. The MINIMIG (AMIGA) core could coexist with the C64 one.
 
 # Special thanks
 
