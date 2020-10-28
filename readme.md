@@ -67,11 +67,17 @@ https://fpgasoftware.intel.com/13.1/
 
 3-Connect the USB BLASTER on your computer, also connect the USB BLASTER using the IDC connector on the FPGA of the UNAMIGA header (the black board) make sure you connect it properly. Powerup the UNAMIGA header.
 
+<img src="https://github.com/arananet/Unamiga_A500_multicore/blob/master/images/flashing.png?raw=true" width="400"/>
+
 4-Open the QUARTUS program, make clic on the ADD FILE button, browse to the folder where you you download the JIC file and choose it. Select the two check box button (marked on the image).
 
 5-Finally hit the START button to start flashing the new core. You will see that the progress bar will start increasing. Once it's at the 100% you will have the new core burned permatelly on the FPGA. Finally if it hits the 100%, disconnect the USB blaster from the UNAMIGA header and  connect the IDC from the HEADER to the FPGA.
 
+<img src="https://github.com/arananet/Unamiga_A500_multicore/blob/master/images/quartus.png?raw=true" width="400"/>
+
 If all goes OK turn on the UNAMIGA header and you will see a blue little window with the cores that you have downloaded from the step before.
+
+<img src="https://github.com/arananet/Unamiga_A500_multicore/blob/master/images/multicoremenu.png?raw=true" width="350"/>
 
 Once we got all setted up, with the stm32 flashed, the fpga with the multicore flashed, the sd card on the multicore socket, the IDC little cable connected, powerup the unamiga header and you will see the cores in a list. To select the required core to start using that machine/console, use the ARROW keys and ENTER to choose the required one.
 
