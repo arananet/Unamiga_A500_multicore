@@ -33,7 +33,7 @@ Remeber, some cores requires another SD card because their special filesystem, s
 
 ### Flashing the STM32 (only for 1.5 headers)
 
-In order to flash the multicore firmware from Victor Trucco on the 1.5 header, you will need to download the STM32Cubeprogrammer (requires the STLINK usb).
+In order to flash the multicore firmware from Victor Trucco on the 1.5 header, you will need to download the STM32Cubeprogrammer (requires the STLINK usb). There is also another software from STLINK, here is the alternative https://www.st.com/en/development-tools/stsw-link004.html.
 
 https://www.st.com/en/development-tools/stm32cubeprog.html
 
