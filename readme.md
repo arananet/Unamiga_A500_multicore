@@ -21,10 +21,10 @@ You can use the MINIMIG core SD, just create a new folder on the root called C64
 You can use the MINIMIG core SD, just create a new folder on the root called NES and put all the roms.
 
 ### MSX core:
-Requires a custom SD card because his partitions configurations. Find a SD card image on the MSX directory.
+Requires a custom SD card because his partitions configurations. The SD image required for the core can be downloaded from here: https://www.zxuno.com/forum/viewtopic.php?t=3976.
 
 ### ZXNEXT core:
-Requires a custom SD card because his partitions configurations.
+Requires a custom SD card because his partitions configurations. The SD image required for the core can be download from the original project, here: https://www.specnext.com/latestdistro/
 
 # Special thanks
 
