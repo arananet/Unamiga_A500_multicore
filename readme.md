@@ -1,6 +1,6 @@
-# Unamiga A500 Header and Unamiga Reloaded Cores.
+# Unamiga A500 1.4 and 1.5 Header Cores.
 
-This repository contains all the cores available for the Unamiga A500 Header and Unamiga Reloaded boards. All of them includes two extensions, one is JIC for using permatelly on the fpga (only recommended when you dont have the multicore onboard) and the UA2 extension which must be used for the multicore support. All of them are compatible with next boards:
+This repository contains all the cores available for the Unamiga A500 Header boards. All of them includes two extensions, one is JIC for using permatelly on the fpga (only recommended when you dont have the multicore onboard) and the UA2 extension which must be used for the multicore support. All of them are compatible with next boards:
 
 ### Unamiga A500 1.4 (with multicore hat)
 ### Unamiga A500 1.5
