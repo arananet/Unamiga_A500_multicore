@@ -1,4 +1,4 @@
-### Unamiga A500 1.4 and 1.5 Header Cores.
+### Unamiga A500 1.4 and 1.5 Header Cores
 
 This repository contains all the cores available for the Unamiga A500 Header boards. All of them includes two extensions, one is JIC for using permatelly on the fpga (only recommended when you don't have the multicore onboard) and the UA2 extension which must be used for the multicore support. All of them are compatible with next boards revision:
 
@@ -100,7 +100,7 @@ Requires a custom SD card because his partitions configurations. The SD image re
 ### ZXNEXT core:
 Requires a custom SD card because his partitions configurations. The SD image required for the core can be download from the original project, here: https://www.specnext.com/latestdistro/
 
-# Special thanks
+# Special thanks and Kudos
 
 Thanks to @benitoss for porting the ZXNEXT and MSX cores.
 
