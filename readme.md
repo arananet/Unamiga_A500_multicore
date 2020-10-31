@@ -110,3 +110,4 @@ Thanks to Victor Trucco for create the multicore system.
 
 Thanks to the Unamiga users that has been a huge support to keep this project alive.
 
+2020 - @edu_arana
