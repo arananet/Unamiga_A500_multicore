@@ -102,9 +102,9 @@ Requires a custom SD card because his partitions configurations. The SD image re
 
 # Special thanks and Kudos
 
-Thanks to @benitoss for porting the ZXNEXT and MSX cores.
+Thanks to @benitoss for porting the MINIMIG, ZXNEXT and MSX cores.
 
-Thanks to Neuro (aka neurorulez) for porting the C64 and the NES cores.
+Thanks to Neuro (aka neurorulez) for porting the C64 and the NES cores and also for update all the fixes on the MINIMIG core.
 
 Thanks to Victor Trucco for create the multicore system.
 
